@@ -1,0 +1,25 @@
+Source:https://www.youtube.com/watch?v=cF3pIMJUZxM&t=15746s&ab_channel=WebDevSimplifiedWebDevSimplifiedVerified
+Hosting:https://covid-19-tracker-449c8.web.app/
+1.Create Wireframe
+2.Create React app
+3.CleanUp project
+4.Structure of Covid tracker
+5.Create Header
+6.Create InfoBoxes
+7.Create Table
+8.Create chart
+9.Create Map
+10.Styling
+11.Deploying
+
+
+npx create-react-app covid-19-tracker
+npm install @material-ui/core
+npm i react-chartjs-2
+npm i react-chartjs-2 chart.js
+npm i numeral
+npm i react-leaflet
+npm i leaflet
+npm i -g firebase-tools
+
+
